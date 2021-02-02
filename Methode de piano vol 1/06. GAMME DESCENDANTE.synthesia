@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="7e0c7558bf26cc6acc35e460a8265da1" Title="06. GAMME DESCENDANTE" FingerHints="98769876 t1: 12341234" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="7e0c7558bf26cc6acc35e460a8265da1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

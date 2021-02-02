@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="701711d72141f65c2d0b780799403ed0" Title="17. ÉTUDE DU TRILLE À LA MAIN GAUCHE" FingerHints="6789876 t1: 5454545434343432323232121212323232343434345454545" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="701711d72141f65c2d0b780799403ed0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

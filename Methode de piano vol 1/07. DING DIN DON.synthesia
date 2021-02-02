@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="9a25220999ac4193a05656a64add8476" Title="07. DING DIN DON" FingerHints="67890987666789098766 t1: 442" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="9a25220999ac4193a05656a64add8476" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

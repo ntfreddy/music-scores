@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="32369b36415f27b31912d4693445c933" Title="HL 586 Oh que ta main paternelle (Accords renversés)" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="32369b36415f27b31912d4693445c933" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

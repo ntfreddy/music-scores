@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="01fd177a7b70dc314c51ad62d3860fb1" Title="20. L'AUBE DU VIEUX MOULIN" FingerHints="08987089876680680789096806807898 t1: 53153143212531531432313234131345" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="01fd177a7b70dc314c51ad62d3860fb1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

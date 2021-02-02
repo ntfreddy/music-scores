@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="a0372b5ab5f407e3f8695f3d8accf2e3" Title="01. PREMIÈRE LEÇON" FingerHints="676676676676 t1: 1211212112" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="a0372b5ab5f407e3f8695f3d8accf2e3" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

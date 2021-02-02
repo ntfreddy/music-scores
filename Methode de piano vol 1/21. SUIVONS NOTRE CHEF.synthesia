@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="8f38ce160ca4432214999541c05913b2" Title="21. SUIVONS NOTRE CHEF" FingerHints="6789078760067890787609876787600098767876 t1: 543212123543212123123452123123452123" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="8f38ce160ca4432214999541c05913b2" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

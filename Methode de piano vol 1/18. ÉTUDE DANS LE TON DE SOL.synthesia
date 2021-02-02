@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="294982d8e9e2cace4ce20475bfb7fe26" Title="18. ÉTUDE DANS LE TON DE SOL" FingerHints="6789098760678909876 t1: 54321234512345" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="294982d8e9e2cace4ce20475bfb7fe26" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

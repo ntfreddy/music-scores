@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="0390cfe8d1a4047b1673edc7ec989b8f" Title="JEM 188 Père,je t'adore" FingerHints="677688998786806806806806806806806806806806806806806706706806706806806806806806706706706706706700968067068068068009680680670670670670 t1: 211341541555415509554155541551255415554155125" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="J'aime l'Éternel">
+      <Song UniqueId="0390cfe8d1a4047b1673edc7ec989b8f" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

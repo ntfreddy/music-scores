@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="2225861576951c02294b2e07e9a343ad" Title="02. L'AVANCE ET LE RECUL" FingerHints="676766676766 t1: 1212112121" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="2225861576951c02294b2e07e9a343ad" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

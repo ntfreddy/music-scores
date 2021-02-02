@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="314578393c4890f5d8622fab48ae7ab0" Title="04. LA DANSE DES NOTES" FingerHints="678768678768 t1: 32213221" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="314578393c4890f5d8622fab48ae7ab0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="e24aea36e662ac47aceb1a533debf29e" Title="03. DEUX NOUVELLES NOTES" FingerHints="67867876786787 t1: 1232112321" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="e24aea36e662ac47aceb1a533debf29e" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

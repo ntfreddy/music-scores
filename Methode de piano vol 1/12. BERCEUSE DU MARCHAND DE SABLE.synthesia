@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f726afe1eb0247f2aef77deca157254f" Title="12. BERCEUSE DU MARCHAND DE SABLE" FingerHints="80987898098786 t1: 51314151215141212513141512121315" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="f726afe1eb0247f2aef77deca157254f" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

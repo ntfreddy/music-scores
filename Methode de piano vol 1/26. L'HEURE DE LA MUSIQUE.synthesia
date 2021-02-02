@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="12e38d48efb720fc1f24df258bf5ea02" Title="26. L'HEURE DE LA MUSIQUE" FingerHints="67890897866789089786789089786678908976 t1: 314151314151314151314153" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="12e38d48efb720fc1f24df258bf5ea02" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

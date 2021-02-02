@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="fd5bb12c6478cee1abb4b2e5c37d46ca" Title="09. LA SAUTERELLE" FingerHints="6809876786809876776 t1: 34241423241" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="fd5bb12c6478cee1abb4b2e5c37d46ca" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

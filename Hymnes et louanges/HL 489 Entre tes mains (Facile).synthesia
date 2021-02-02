@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="b59893a85b96a7267ab5b55ecdc50b0d" Title="HL 489 Entre tes mains (Facile)" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="b59893a85b96a7267ab5b55ecdc50b0d" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

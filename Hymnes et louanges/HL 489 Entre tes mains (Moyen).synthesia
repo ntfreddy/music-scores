@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="7fbd81c71b6e85bbe481ded13b93839b" Title="HL 489 Entre tes mains (Moyen)" FingerHints="68686968676768676669686768668686968676768676669686768660796879688079687968687979686079796877968676 t1: 51515151111151515151115151515151111151515151115151515151151551515151513111111151" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="7fbd81c71b6e85bbe481ded13b93839b" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

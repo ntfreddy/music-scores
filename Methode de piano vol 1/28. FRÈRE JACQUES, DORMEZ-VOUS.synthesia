@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="6e71b012b2bd1e3575586e7ff2d3f5d0" Title="28. FRÈRE JACQUES, DORMEZ-VOUS" FingerHints="678667868908909098769098766666 t1: 543554353213211153" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="6e71b012b2bd1e3575586e7ff2d3f5d0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

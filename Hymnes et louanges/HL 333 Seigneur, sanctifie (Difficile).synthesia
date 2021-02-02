@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="22a14d1d483edcea5b0f533fd66c3be8" Title="HL 333 Seigneur, sanctifie (Difficile)" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="22a14d1d483edcea5b0f533fd66c3be8" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

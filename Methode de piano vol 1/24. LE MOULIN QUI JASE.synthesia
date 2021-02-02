@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="5d84541446c05b420591ef689193a54a" Title="24. LE MOULIN QUI JASE" FingerHints="6868686807877768686868078786 t1: 3131313131313131212121212121212131313131313131312121212131313" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="5d84541446c05b420591ef689193a54a" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

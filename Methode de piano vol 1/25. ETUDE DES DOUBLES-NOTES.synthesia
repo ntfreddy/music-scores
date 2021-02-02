@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="0f901d9f321cc89c7cae8ccf4af461ac" Title="25. ETUDE DES DOUBLES-NOTES" FingerHints=" t1: 212121313131414141515151" HandParts="0d01442dde87d3ba5aba1cad7e10b38a;d41d8cd98f00b204e9800998ecf8427e;0d01442dde87d3ba5aba1cad7e10b38a" Parts="t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="0f901d9f321cc89c7cae8ccf4af461ac" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

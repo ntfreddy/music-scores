@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="0fb8faed0e3ebb52cec8d1dc620e57b0" Title="08. LA PLONGÉE" FingerHints="8878 t1: 1234543211234543211" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="0fb8faed0e3ebb52cec8d1dc620e57b0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

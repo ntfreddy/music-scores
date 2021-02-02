@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="426ad13844385cbd70d2f19cad4b56a0" Title="23. LE CHANT DU BATELIER" FingerHints="008080877687889097666878890979 t1: 581231213123" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="426ad13844385cbd70d2f19cad4b56a0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

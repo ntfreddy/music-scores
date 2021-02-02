@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="b889af15d2ab157cceb49f01ccb615e1" Title="15. LA BALANÇOIRE" FingerHints="086708676787678086708676787676 t1: 521252123251521252123235" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="b889af15d2ab157cceb49f01ccb615e1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

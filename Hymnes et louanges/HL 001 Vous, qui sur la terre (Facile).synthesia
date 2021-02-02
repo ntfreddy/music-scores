@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="215172650b4e30bb0ab4ad7eaf5d208d" Title="HL 001 Vous, qui sur la terre (Facile)" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="215172650b4e30bb0ab4ad7eaf5d208d" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="4379a50e91549c8c367232fdeafd9103" Title="22. CHANT DE CHASSE" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="4379a50e91549c8c367232fdeafd9103" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

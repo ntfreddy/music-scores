@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="5f495c5724a1f95e4b422afab413641a" Title="HL 557 Enfants, soyez sages (Facile)" HandParts="06f94e4a513915c408aed181f8bbb954;1269627ffecaf54d7534947a797c79ce;7b78e59cb87ead6d48ec369f064634e7" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="5f495c5724a1f95e4b422afab413641a" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="91a6b1018cd0a40b366dfdbc0fac76d7" Title="27. DOUBLES-NOTES" FingerHints="676766686868696969606060" Parts="t0:RA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="91a6b1018cd0a40b366dfdbc0fac76d7" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
