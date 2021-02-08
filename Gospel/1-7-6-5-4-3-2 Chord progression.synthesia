@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="c0e297562ff4377672392d22348fb997" Title="1-7-6-5-4-3-2 Chord progression" FingerHints="680680680780680680680680 t1: 12312345" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Gospel">
+      <Song UniqueId="c0e297562ff4377672392d22348fb997" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
