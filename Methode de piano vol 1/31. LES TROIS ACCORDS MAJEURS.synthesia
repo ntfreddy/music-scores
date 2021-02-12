@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="b4ec7dcb4573dd1dbf0adee66e559801" Title="31. LES TROIS ACCORDS MAJEURS" FingerHints="6806806806806806806806 t1: 531531531531531531531531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="b4ec7dcb4573dd1dbf0adee66e559801" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

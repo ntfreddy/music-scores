@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="88f702a0cceffa745a3565378c4d77b5" Title="34. LA MARGUERITE" FingerHints="678987098878769870676 t1: 531521531521531521531521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="88f702a0cceffa745a3565378c4d77b5" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

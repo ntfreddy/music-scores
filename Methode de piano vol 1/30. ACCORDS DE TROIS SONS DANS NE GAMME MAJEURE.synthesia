@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="1e022855ac88d4ec9c0c9f28dca0088c" Title="30. ACCORDS DE TROIS SONS DANS NE GAMME MAJEURE" FingerHints="680680680680680680680680680680680680680680680680 t1: 531531531531531531531531531531531531531531531531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="1e022855ac88d4ec9c0c9f28dca0088c" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

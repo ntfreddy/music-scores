@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="32693fd17de9e80949cc2f713f5f2934" Title="37. EN CANOT" FingerHints="868608686096906678909 t1: 531521531521531521521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="32693fd17de9e80949cc2f713f5f2934" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

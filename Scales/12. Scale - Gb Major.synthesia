@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="4c40502ccac20eed8c05f3800126d9d6" Title="12. Scale - Gb Major" FingerHints="789678676876987680 t1: 432132141231234531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Scales">
+      <Song UniqueId="4c40502ccac20eed8c05f3800126d9d6" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

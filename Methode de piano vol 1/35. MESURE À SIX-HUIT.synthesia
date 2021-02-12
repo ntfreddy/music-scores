@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="97fd309391e6277d64c0a1d13009ede4" Title="35. MESURE À SIX-HUIT" FingerHints="6786787897898908909876 t1: 5435434324323213212345" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="97fd309391e6277d64c0a1d13009ede4" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

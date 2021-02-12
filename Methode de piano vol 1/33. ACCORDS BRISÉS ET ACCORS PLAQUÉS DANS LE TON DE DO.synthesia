@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="34b7559235650dcf3470ba45483055f4" Title="33. ACCORDS BRISÉS ET ACCORS PLAQUÉS DANS LE TON DE DO" FingerHints="6806806806806906906801 t1: 531531521521521521531531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="34b7559235650dcf3470ba45483055f4" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
