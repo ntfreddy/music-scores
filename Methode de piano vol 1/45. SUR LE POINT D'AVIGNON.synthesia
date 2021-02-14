@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="d69bf422860a83950f9cad15e69992d0" Title="45. SUR LE POINT D'AVIGNON" FingerHints="987987890689069879878906867987676987676 t1: 531521531521531521531521531531521531531521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="d69bf422860a83950f9cad15e69992d0" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f646ad73eae8e6922f0643962765a2d7" Title="41. ÉTUDE DU DOIGTÉ" FingerHints="6090807060908070609080706 t1: 5121314151213141512131415" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="f646ad73eae8e6922f0643962765a2d7" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="09679556448d8a31f9fa49d66c4c6ff6" Title="38. ÉTUDE DU DÉTACHÉ" FingerHints="678909876 t1: 543212345" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="09679556448d8a31f9fa49d66c4c6ff6" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

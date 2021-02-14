@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="bf6748291e38200c0393743910f3c04d" Title="47. ÉTUDE DE L'ACCORD DE SOL MAJEUR" FingerHints="6806806806806906906806 t1: 531531521521521521531531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="bf6748291e38200c0393743910f3c04d" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

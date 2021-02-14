@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="47c72d10bfd0e68d922feb5f48b241ab" Title="39. LE BANJO" FingerHints="868696086869608686960869686 t1: 5343453434532321515" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="47c72d10bfd0e68d922feb5f48b241ab" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

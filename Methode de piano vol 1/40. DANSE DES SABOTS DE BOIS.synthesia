@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f8dd9eae6f9913be822f941a155a8102" Title="40. DANSE DES SABOTS DE BOIS" FingerHints="6868686887896868686876786868686887898068967967 t1: 515151414141215151515141212131314141531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="f8dd9eae6f9913be822f941a155a8102" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

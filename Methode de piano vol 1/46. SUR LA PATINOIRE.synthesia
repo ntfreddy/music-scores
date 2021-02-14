@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="56bec0ecc95ce6f793028ef00e42e9a1" Title="46. SUR LA PATINOIRE" FingerHints="797979798989898989898989797979796969696968686868696969698989898079797979898989898989898979797979696969696868686889898989797979 t1: 1322431454313112343213224314543432123" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="56bec0ecc95ce6f793028ef00e42e9a1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

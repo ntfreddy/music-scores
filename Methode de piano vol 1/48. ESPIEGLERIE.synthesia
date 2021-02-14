@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="971450179a3f2cac79354eb1397fb446" Title="48. ESPIEGLERIE" FingerHints="08876677800987667780987667780098766776 t1: 531521531531521531531521531531521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="971450179a3f2cac79354eb1397fb446" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
