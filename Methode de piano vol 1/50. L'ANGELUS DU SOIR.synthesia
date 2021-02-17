@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f446ceb377515f9b7dad3727ce3e0ae6" Title="50. L'ANGELUS DU SOIR" FingerHints="876676786876677768907890787667776 t1: 531531521531531531521531531521531521531531521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="f446ceb377515f9b7dad3727ce3e0ae6" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="057227d0e8946a4dfeaddc7b08733732" Title="53. ÉTUDE EN FORME DE GAMME" FingerHints="6786789067867890678678906786789067867890678678906786789067867890 t1: 531531531531521521521521531531531531521521521521531531531531521521521521521521521521531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="057227d0e8946a4dfeaddc7b08733732" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

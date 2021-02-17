@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="b7ab406b55ced06281a462b748661385" Title="49. GAZOUILLIS D'OISEAUX" FingerHints="69690609696906096969060909797676676678967667667896766766789 t1: 4251422425142242514241425151424251514242515142" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="b7ab406b55ced06281a462b748661385" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

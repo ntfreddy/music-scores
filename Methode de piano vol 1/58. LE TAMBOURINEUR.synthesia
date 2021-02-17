@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="524defeb8075f764f09003e92aeb1a4c" Title="58. LE TAMBOURINEUR" FingerHints="67679878098767679870987667679878098900987067890 t1: 424242424242424242424141424242424242424241415151514242424242414121212141414242423131424242" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="524defeb8075f764f09003e92aeb1a4c" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

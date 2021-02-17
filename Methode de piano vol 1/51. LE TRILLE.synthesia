@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="e43f0792652a40cddf9e243908f1f2f2" Title="51. LE TRILLE" FingerHints="8787878989898909090908787890090909098989898787878787878789898989090909087878900909090989897887878786 t1: 515131513151515151513151315151" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="e43f0792652a40cddf9e243908f1f2f2" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
