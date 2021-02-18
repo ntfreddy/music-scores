@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="29baf9c8e2db90cbaca8722b64a78c57" Title="57. SPECTRES NOCTURNES" FingerHints="686768679768769768769767097670686760 t1: 5312153121131311531215315" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="29baf9c8e2db90cbaca8722b64a78c57" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

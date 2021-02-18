@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="6a365aca3fea80684bb44378301ee279" Title="52. LA MANECANTERIE" FingerHints="66668686878686868787878787868686868787878787868888787878787868 t1: 2222222225222234335222234332432" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="6a365aca3fea80684bb44378301ee279" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="fa005bd6a3bda6f032722794a1da97cd" Title="60. PÈR' NOËL" FingerHints="686868686868680676879797979796868867786706868686868686806768797979797968680609760 t1: 5131513153151314121514212345131513153151314121514253153" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 1">
+      <Song UniqueId="fa005bd6a3bda6f032722794a1da97cd" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
