@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="179d7dcfbca22b5d25a4032c4c31952f" Title="HL 588 Si du nid tombe l'oisillon" FingerHints="767867896808670967987768767867896808670967768667906798779067986790679867967767867896808670967768667 t1: 1531423132515212115314221424121521231231232115214221425221531" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="179d7dcfbca22b5d25a4032c4c31952f" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
