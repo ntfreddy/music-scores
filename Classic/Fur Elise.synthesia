@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="05953efb2b184f5750f06ffbbcbe2377" Title="Fur Elise" FingerHints="09090798667906790609090798667906098090907986679067906090906986679060987890609860986098606078787878698667906790609090698667906098 t1: 521531---521531521521531221521531521521531521521513232521531521521531521" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Classic">
+      <Song UniqueId="05953efb2b184f5750f06ffbbcbe2377" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
