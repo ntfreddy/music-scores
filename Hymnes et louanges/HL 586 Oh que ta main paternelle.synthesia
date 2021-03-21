@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="c53721da682db985b36879bd9a73630c" Title="HL 586 Oh que ta main paternelle" FingerHints="6808670987680889670068068067680968008968068080680868067068089680680678670 t1: 515323155245155515" Parts="t0:RA t1:LA" />
+    <Song UniqueId="b877ab727a6d6168bc12d6f000bde983" Title="HL 586 Oh que ta main paternelle" FingerHints="68080680968680886967006797906796809867890670670806808679670670896806806790679 t1: 55315531231151523211155211153" Parts="t0:RA t1:LA" />
   </Songs>
   <Groups>
     <Group Name="Hymnes et louanges">
-      <Song UniqueId="c53721da682db985b36879bd9a73630c" />
+      <Song UniqueId="b877ab727a6d6168bc12d6f000bde983" />
     </Group>
   </Groups>
 </SynthesiaMetadata>
