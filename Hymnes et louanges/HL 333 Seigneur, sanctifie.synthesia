@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="e20498d338c664f51d0e0c805a0fea1d" Title="HL 333 Seigneur, sanctifie" FingerHints="767689670679868968677676896706798689686790679680967868906796979076768967067986896867 t1: 1531215142211531153121514221153112151153121431211531215142211531" Parts="t0:RA t1:LA" />
+    <Song UniqueId="19221ee349786fb2649daff1fd8a5876" Title="HL 333 Seigneur, sanctifie" FingerHints="6867867906780679979079786867867906780679979079789067967096879670796970686786790678067997907978 t1: 53254231153153254231153112231155215325423115311" Parts="t0:RA t1:LA" />
   </Songs>
   <Groups>
     <Group Name="Hymnes et louanges">
-      <Song UniqueId="e20498d338c664f51d0e0c805a0fea1d" />
+      <Song UniqueId="19221ee349786fb2649daff1fd8a5876" />
     </Group>
   </Groups>
 </SynthesiaMetadata>
