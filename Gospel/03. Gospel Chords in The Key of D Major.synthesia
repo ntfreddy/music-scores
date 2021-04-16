@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="46ff466852e6f6c6c0c35f89c85c9f7c" Title="03. Gospel Chords in The Key of D Major" FingerHints="678068089680680678606806806706806706706706780 t1: 515215215121525435451" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Gospel">
+      <Song UniqueId="46ff466852e6f6c6c0c35f89c85c9f7c" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
