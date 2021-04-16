@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="28e709b0ab9104b7fb7ccc9bb8d51298" Title="11. Gospel Chords in The Key of Bb Major" Parts="t0:RA t1:LA" FingerHints="678068089680680678606806806706806706706706780 t1: 515215215121525435451" />
+  </Songs>
+  <Groups>
+    <Group Name="Gospel">
+      <Song UniqueId="28e709b0ab9104b7fb7ccc9bb8d51298" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
