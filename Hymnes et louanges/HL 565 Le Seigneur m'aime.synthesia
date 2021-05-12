@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="9df7e1d901240ad0edbe94b43183e7c2" Title="HL 565 Le Seigneur m'aime" FingerHints="666769676909696769069686767606068676769686867686806967676769686767606068 t1: 531315313121455313152314155212153131531314155212153131531314155212151" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="9df7e1d901240ad0edbe94b43183e7c2" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
