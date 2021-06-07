@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="bfd340f43c14d850442f4e8914414455" Title="01. PROMENADE DANS LE PARC" FingerHints="08608608678908608608678908608608608608608608608677778980677778760 t1: 53123453123453221352152152123453153153153152152152121231353153" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Methode de piano vol 2">
+      <Song UniqueId="bfd340f43c14d850442f4e8914414455" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
