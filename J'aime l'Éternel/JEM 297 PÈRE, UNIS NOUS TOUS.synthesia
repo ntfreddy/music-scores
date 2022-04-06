@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="06fefefd81a507cc833d74c76afc52fa" Title="JEM 297 PÈRE, UNIS NOUS TOUS" FingerHints="680680680680680680680670967068088680680670668068068068068068068068060876670 t1: 5522132153221252112342155" HandParts="9a29b53047b1290add2493a7d7e8b0df;a60bf0a3892f696b925e3a5f92a8fbfb;58d8c5aef277a96b60d2547e272a3d28" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="J'aime l'Éternel">
+      <Song UniqueId="06fefefd81a507cc833d74c76afc52fa" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f1eff230eaf29b2a77290479318909b1" Title="HL 001 GLOIRE À DIEU NOTRE CRÉATEUR" FingerHints="6706806807968680680680680680680680680680806660680680680670670680670670606806796707080680666068060 t1: 1254112311543251512543245215244321525" HandParts="ec3355fc2a7341b5322efc5e119e6f60;6870159e95389398fee742aaa6211067;4574792a29105bb4c5cdeff96be03617" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="f1eff230eaf29b2a77290479318909b1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
