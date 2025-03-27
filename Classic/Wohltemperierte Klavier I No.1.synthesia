@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="f5e8b9fb21d6a85495290252e2d3651e" Title="Wohltemperierte Klavier I No.1" FingerHints="679 m2: 680 m3: 680 m4: 679 m5: 680 m6: 780 m7: 670 m8: 670 m9: 670 m10: 670 m11: 679 m12: 670 m13: 680 m14: 670 m15: 680 m16: 670 m17: 670 m18: 670 m19: 679 m20: 780 m21: 680 m22: 679 m23: 678 m24: 679 m25: 679 m26: 670 m27: 670 m28: 670 m29: 670 m30: 670 m31: ------670---670 m33: 6780870878767667808708796876780 t1: 31--32--424231--31--32--42--32--42--51--42--42--53--42--53--32--42--51--42--41--51--52--41--51--51--52--52--52--51--52 m31: --5251--515151" HandParts="f6e97769ed660eee990d60e997552ea2;b95b7c7386a45d9e0eb099eaa7e1f9f6;365193f02744796894728c9ce317005a" Parts="t0:RA t1:LA" Subtitle="Prelude 1." Composer="J. S. Bach" />
+  </Songs>
+  <Groups>
+    <Group Name="Classic">
+      <Song UniqueId="f5e8b9fb21d6a85495290252e2d3651e" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
