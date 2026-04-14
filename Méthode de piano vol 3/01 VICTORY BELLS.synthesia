@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="0d16be155ae53df0bd8845496edaefa6" Title="01 VICTORY BELLS" FingerHints="089786089786089786869708089786089786796086970808978608978686970886970808978608978608978608978608978608978686970808978608978679608697080897860897868697088697080897868697086 t1: 51315121513151515131512141315153" HandParts="b286dacd91abcd4fd7109222aad123a2;b335cae6b36324e456ea0bf030c3f4b6;57a2a98288abbd76b4f3bb1762e09894" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 3">
+      <Song UniqueId="0d16be155ae53df0bd8845496edaefa6" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
