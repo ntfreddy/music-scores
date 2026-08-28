@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="a0f98a5b4f4b76e5b843c53875f153cc" Title="19. LE COULE" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 1">
+      <Song UniqueId="a0f98a5b4f4b76e5b843c53875f153cc" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

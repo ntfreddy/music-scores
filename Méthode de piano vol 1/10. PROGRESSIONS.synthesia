@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="ac480cc2e8edbec308af63b2cfb27955" Title="10. PROGRESSIONS" FingerHints=" t1: 12345123451234512345" HandParts="124e9bc64dd2111f89a5b9f6f7e255aa;d41d8cd98f00b204e9800998ecf8427e;124e9bc64dd2111f89a5b9f6f7e255aa" Parts="t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 1">
+      <Song UniqueId="ac480cc2e8edbec308af63b2cfb27955" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
