@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="794bba46f9d5a6d80d11798d4a3c7363" Title="03. EN AQUAPLANE" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="794bba46f9d5a6d80d11798d4a3c7363" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

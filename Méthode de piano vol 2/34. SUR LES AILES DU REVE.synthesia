@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="aba105b68b220e44a250ea451d80e1cd" Title="34. SUR LES AILES DU REVE" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="aba105b68b220e44a250ea451d80e1cd" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

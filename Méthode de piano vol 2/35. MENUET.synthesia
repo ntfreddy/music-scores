@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="42acd6d30877cf203524d61ec75d6de1" Title="35. MENUET" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="42acd6d30877cf203524d61ec75d6de1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

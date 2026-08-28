@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="a854ebe3d73acd3315ec213e180deebb" Title="36. LA GIGUE" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="a854ebe3d73acd3315ec213e180deebb" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

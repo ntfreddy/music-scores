@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="e4fcd15caf0482a8f1fdd67419b6ba35" Title="02. ÉTUDE POUR LES CINQ DOIGTS" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="e4fcd15caf0482a8f1fdd67419b6ba35" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

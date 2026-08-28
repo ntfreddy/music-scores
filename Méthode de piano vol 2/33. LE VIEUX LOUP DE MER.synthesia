@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="32efd70458beb189e21a610e8948b0f1" Title="33. LE VIEUX LOUP DE MER" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="32efd70458beb189e21a610e8948b0f1" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
