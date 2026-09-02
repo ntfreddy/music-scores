@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="0e69a265abca851d866fb81b58216aea" Title="05. ROMANCES SANS PAROLES" HandParts="e2c0823c0d77e6401e69fc66c49b1692;b456b5b78624d80866af506a6aa31f8b;9775d0d5286fc8506e849b87ab7512c9" Parts="t0:RA t1:LA" />
+    <Song UniqueId="d6d108dca34a51618b71f07a5e04bcf2" Title="06. ÉTUDE POUR LES CINQ DOIGTS" />
+    <Song UniqueId="91eb0d40ccacd8b24d33c7cc8db63d3a" Title="07. LE THÉÂTRE FLOTTANT DU MENESTREL" />
+    <Song UniqueId="7e1298409210b4249cd1c1e812155270" Title="08. ÉTUDE D'EXTENSION" />
+    <Song UniqueId="f8b6c1c7abeb9a2955ba3ed22842d0b6" Title="09. ÉTUDE EN DOUBLES-CROCHES" />
+    <Song UniqueId="4ad8b18894349a5049b377889a23fe7f" Title="10. DANS L'AQUARIUM" />
+    <Song UniqueId="d6156ca4c766ea43f8ed8e9198141e0e" Title="11. ÉTUDE D'EXTENSION" />
+    <Song UniqueId="cee038655e38fc6a59414d3c0e1fd53f" Title="12. AU PAYS MAGIQUE" />
+    <Song UniqueId="744bc7e2e0e358414f616fd31de9c379" Title="13. C'EST MERVEILLEUX" />
+    <Song UniqueId="1f03762e4e427ea25cf7c932e567b1f6" Title="14. EXERCICE DE FANFARE" />
+    <Song UniqueId="d85939f497fd5cb9a87428ee6f19beac" Title="15. SWANEE RIVER" />
+    <Song UniqueId="01f1c850e8dcca3ce09a64ced71bbd07" Title="16. LEVER DE SOLEIL" />
+    <Song UniqueId="7c6491fca5e3b08cc8beddd22d7c08f3" Title="17. UNFINISHED SYMPHONY" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="0e69a265abca851d866fb81b58216aea" />
+      <Song UniqueId="d6d108dca34a51618b71f07a5e04bcf2" />
+      <Song UniqueId="91eb0d40ccacd8b24d33c7cc8db63d3a" />
+      <Song UniqueId="7e1298409210b4249cd1c1e812155270" />
+      <Song UniqueId="f8b6c1c7abeb9a2955ba3ed22842d0b6" />
+      <Song UniqueId="4ad8b18894349a5049b377889a23fe7f" />
+      <Song UniqueId="d6156ca4c766ea43f8ed8e9198141e0e" />
+      <Song UniqueId="cee038655e38fc6a59414d3c0e1fd53f" />
+      <Song UniqueId="744bc7e2e0e358414f616fd31de9c379" />
+      <Song UniqueId="1f03762e4e427ea25cf7c932e567b1f6" />
+      <Song UniqueId="d85939f497fd5cb9a87428ee6f19beac" />
+      <Song UniqueId="01f1c850e8dcca3ce09a64ced71bbd07" />
+      <Song UniqueId="7c6491fca5e3b08cc8beddd22d7c08f3" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
