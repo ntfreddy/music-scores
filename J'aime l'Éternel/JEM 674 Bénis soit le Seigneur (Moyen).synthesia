@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="8049528861c82922fb70e6e0c90cf425" Title="JEM 674 Bénis soit le Seigneur (Moyen)" />
+  </Songs>
+  <Groups>
+    <Group Name="J'aime l'Éternel">
+      <Song UniqueId="8049528861c82922fb70e6e0c90cf425" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

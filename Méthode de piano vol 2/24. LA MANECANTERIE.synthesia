@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="2fbdd40bb82b81a2e32cb6666f834742" Title="18. GAMME CHROMATIQUE" />
+    <Song UniqueId="8d163c923e7ce6bc88f2c74352e09e60" Title="19. ÉTUDE DU PASSAGE DU POUCE" />
+    <Song UniqueId="f325ba974cbbe416ae1ecfdcd3c7543a" Title="20. LE MARINGOUIN" />
+    <Song UniqueId="dab53e434456ed6c2790d2d802a6cc3c" Title="21. BERCEUSE" />
+    <Song UniqueId="bcadf63118f7cde14ddd8c9940506862" Title="22. LA PARADE" />
+    <Song UniqueId="86c563702c7dc232344ac7b33166c1cd" Title="23. LES EMBRUNS" />
+    <Song UniqueId="c16fa4c4e794332966f9069238aa3656" Title="24. LA MANECANTERIE" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="c16fa4c4e794332966f9069238aa3656" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
