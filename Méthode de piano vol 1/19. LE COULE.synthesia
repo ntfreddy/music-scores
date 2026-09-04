@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="a0f98a5b4f4b76e5b843c53875f153cc" Title="19. LE COULE" />
+    <Song UniqueId="a0f98a5b4f4b76e5b843c53875f153cc" Title="19. LE COULE" FingerHints="08867899779890088678997786 t1: 312421312423" HandParts="04b699463a46423ceb030fe676eb759a;bf219b359b6b9c9bc810901712d5d28b;bf0801c61dbb6a0dbececf9ff617ea7b" Parts="t0:RA t1:LA" />
   </Songs>
   <Groups>
-    <Group Name="Méthode de piano vol 1">
+    <Group Name="Méthode de piano 1">
       <Song UniqueId="a0f98a5b4f4b76e5b843c53875f153cc" />
     </Group>
   </Groups>
