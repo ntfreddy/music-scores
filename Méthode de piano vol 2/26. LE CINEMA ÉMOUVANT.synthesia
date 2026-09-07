@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="16acd44bf41072ca2e24431774fb4643" Title="04. ÉTUDES DES RENVERSEMENTS" />
+    <Song UniqueId="98b9230ef0a37667049cd1cb8fb0067c" Title="25. LES CHATONS S'AMUSENT" />
+    <Song UniqueId="1c8bcc7137151a76ae8df64e57ea8518" Title="26. LE CINEMA ÉMOUVANT" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="1c8bcc7137151a76ae8df64e57ea8518" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
