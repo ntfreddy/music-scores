@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="16acd44bf41072ca2e24431774fb4643" Title="04. ÉTUDES DES RENVERSEMENTS" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="16acd44bf41072ca2e24431774fb4643" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

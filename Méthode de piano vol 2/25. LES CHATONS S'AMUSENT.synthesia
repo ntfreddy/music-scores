@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="16acd44bf41072ca2e24431774fb4643" Title="04. ÉTUDES DES RENVERSEMENTS" />
+    <Song UniqueId="98b9230ef0a37667049cd1cb8fb0067c" Title="25. LES CHATONS S'AMUSENT" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 2">
+      <Song UniqueId="98b9230ef0a37667049cd1cb8fb0067c" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
