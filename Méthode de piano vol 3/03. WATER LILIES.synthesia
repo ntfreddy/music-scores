@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="7afa3dc7a0c99c1fff25aa228002cf15" Title="02. SINGING COWBOY" />
+    <Song UniqueId="202bdf1d9222e7cd88b3e559cd978a38" Title="03. WATER LILIES" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 3">
+      <Song UniqueId="202bdf1d9222e7cd88b3e559cd978a38" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>

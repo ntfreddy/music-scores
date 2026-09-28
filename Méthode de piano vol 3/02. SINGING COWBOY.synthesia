@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="7afa3dc7a0c99c1fff25aa228002cf15" Title="02. SINGING COWBOY" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 3">
+      <Song UniqueId="7afa3dc7a0c99c1fff25aa228002cf15" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
