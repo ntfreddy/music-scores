@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="b59893a85b96a7267ab5b55ecdc50b0d" Title="HL 489 Entre tes mains (Facile)" Parts="t0:RA t1:LA" />
+    <Song UniqueId="215172650b4e30bb0ab4ad7eaf5d208d" Title="HL 001 Vous, qui sur la terre (Facile)" Parts="t0:RA t1:LA" FingerHints="6788887698767876086798766-6 t1: 11234321" HandParts="f4bd9eb0dbdbf168cc6d8fe6967d08ee;b1093ffc504033911ebbcb84d3a44ffb;f3327f3b12168e615fc9e9b3a8cd1f9b" />
+    <Song UniqueId="b59893a85b96a7267ab5b55ecdc50b0d" Title="HL 489 Entre tes mains (Facile)" FingerHints="889877876698786889877876698786 t1: 5151551515" HandParts="147eb39ed92e03540fadbbd1ca20d01b;fb4f7476baff2fc6d28a06bf7b91ebb3;67ca911991e9846b9b09b8bfa7a2bc09" Parts="t0:RA t1:LA" />
+    <Song UniqueId="5f495c5724a1f95e4b422afab413641a" Title="HL 557 Enfants, soyez sages (Facile)" FingerHints="887768788987069876 t1: 4321" HandParts="06f94e4a513915c408aed181f8bbb954;1269627ffecaf54d7534947a797c79ce;7b78e59cb87ead6d48ec369f064634e7" Parts="t0:RA t1:LA" />
   </Songs>
   <Groups>
     <Group Name="Hymnes et louanges">
