@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SynthesiaMetadata Version="1">
   <Songs>
-    <Song UniqueId="5a6af0e32e382bd4de4864570c6ef09e" Title="14. NORWEGIAN VILLAGE DANCE" FingerHints="8--78 m2: 6867--606967----6067-8606960678--78 m6: 6867--60-967----6067686069 m9: 8--78 m10: 6867--606867----6067--609 t1: 51 m9: 5151" HandParts="79f50ee53a88d4330881aa24290f955c;f1b422f7014b5b914c07e5f9350a51c0;846c7aca6cef88e9153d45fc65e6153c" Parts="t0:RA t1:LA" />
+    <Song UniqueId="212f5cb518d020488541d89b85640283" Title="14. NORWEGIAN VILLAGE DANCE" FingerHints="8--78 m2: 6867--606967----6067-8606960678--78 m6: 6867--60-967----6067686069 m9: 8--78 m10: 6867--606867----6067--60 m13: 8--78 m14: 6867--60--67----6067--60 t1: 51 m9: 5151 m13: 5151" HandParts="79f50ee53a88d4330881aa24290f955c;663d53f8cd93db9e7ce0bcaa519d5c2c;f267a3cc0e435b30db3418a9a0f247ed" Parts="t0:RA t1:LA" />
   </Songs>
   <Groups>
     <Group Name="Méthode de piano vol 3">
-      <Song UniqueId="5a6af0e32e382bd4de4864570c6ef09e" />
+      <Song UniqueId="212f5cb518d020488541d89b85640283" />
     </Group>
   </Groups>
 </SynthesiaMetadata>
