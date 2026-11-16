@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="9232d3c270898575d1537a539be752ff" Title="HL 190 Toi qui disposes" HandParts="9fc78057165afe0bbc8ac74734f090de;d20ffc3c1bdec3fb3074ab22f46d790b;0fbae9f1eb5e244cd2642b7059dcefd2" Parts="t0:RA t1:LA t2:RA t3:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="9232d3c270898575d1537a539be752ff" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
