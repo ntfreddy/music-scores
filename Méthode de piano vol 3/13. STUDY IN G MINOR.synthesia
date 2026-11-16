@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="a55f641cc33b11a1e648339d405dd7f8" Title="13. STUDY IN G MINOR" FingerHints="8987987987689876678967678678678678678780868768768767676786789098987987689876678967678678678789678780868760987898 t1: 2123451221234534542123451221234531515" HandParts="5825544c9983c6ffe8a8eb2a7b1f28af;511818862ce41a73d80c3976814e015c;cb5648a95e8a613dd12e09f0af30d6c6" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Méthode de piano vol 3">
+      <Song UniqueId="a55f641cc33b11a1e648339d405dd7f8" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
