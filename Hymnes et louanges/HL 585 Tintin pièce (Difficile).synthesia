@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SynthesiaMetadata Version="1">
+  <Songs>
+    <Song UniqueId="ca43a25392b79ec1b60beeccf8629244" Title="HL 585 Tintin pièce (Difficile)" FingerHints="68----796806080--796868068----79680606067067068067060--680---670---68--09876060--680---680---6069--686960 t1: 5521552155215531552155215531553155215521234555315521553155315521" HandParts="becd64dfb83ffa10354b90301590de7a;5d501ea34dcddc633c60ab75ab8f09c4;486e5a293bfd8f613b6d30b490d85605" Parts="t0:RA t1:LA" />
+  </Songs>
+  <Groups>
+    <Group Name="Hymnes et louanges">
+      <Song UniqueId="ca43a25392b79ec1b60beeccf8629244" />
+    </Group>
+  </Groups>
+</SynthesiaMetadata>
